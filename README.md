@@ -3,9 +3,13 @@
 Este repositorio sirve como indice central de los modulos y rutas de aprendizaje.
 
 ## Proposito
-Centralizar la navegacion por los repositorios del programa.
+Centralizar la navegacion por los repositorios del programa y alojar clases base.
 
-## Estructura
+## Estructura del repo
+- `clases/` materiales didacticos por clase.
+- `docs/` guias y flujo de trabajo.
+
+## Modulos de la organizacion
 Repositorios disponibles:
 - `m01-setup-github`
 - `m02-gobierno-de-datos`
@@ -48,6 +52,13 @@ Repositorios disponibles:
 ## Como usar
 - Entra al repo del modulo que corresponda.
 - Sigue el README de cada modulo.
+
+## Clases disponibles
+- `clases/01-python-prework/README.md`
+
+## Documentacion interna
+- Estructura: `docs/estructura_repo.md`
+- Flujo de trabajo: `docs/flujo_trabajo.md`
 
 ## Licencia y uso
 Uso educativo y de referencia interna.
